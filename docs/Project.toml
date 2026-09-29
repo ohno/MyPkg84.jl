@@ -1,0 +1,6 @@
+[deps]
+MyPkg84 = "3aa0f6bf-9550-4a65-9712-2d640df4bebc"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
+[compat]
+Documenter = "1.9"
